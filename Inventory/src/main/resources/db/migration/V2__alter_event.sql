@@ -1,0 +1,1 @@
+alter table event add column ticket_price decimal(10, 2) not null default 10.00;
